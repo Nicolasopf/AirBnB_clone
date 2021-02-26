@@ -4,3 +4,8 @@ header {
     background: #FF0000;
     border-bottom: solid 1px #CCCCCC;
 }
+.hbnb {
+    background: url("images/logo.png") no-repeat;
+    margin-left: 20px;
+    height: 100%;
+}
